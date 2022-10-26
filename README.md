@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @tiutiunnykleasoft
-- 👀 I’m interested in skateboarding , writing, reading, running, and spoke walking around nature <3
-- 🌱 I’m currently learning PHP, Ruby, Swift
-- 💞️ I’m looking to collaborate on Laravel/Swift projects
+- 👋 Hi, I’m @tiutiunnykleasoft.
+- 👀 I’m have no interests.
+- 🌱 I’m PHP developer.
+- 💞️ I’m looking to new projects.
 - 📫 How to reach me : write to telegarm @nanallew, or email : tutunikssa@gmail.com
 
 <!---
